@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kfa:home|Door43 (kfa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kfa|d43-kfa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kfa/archive/master.zip|d43-kfa.zip]]
+
+**Recent Changes**
+{{changes>ns = kfa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kfa|Ethnologue data]]
+
